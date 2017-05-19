@@ -1,6 +1,6 @@
-# vue
+# vuex-card
 
-> A Vue.js project
+> A simple callling card based on vuex
 
 ## Build Setup
 
