@@ -1,0 +1,6 @@
+export const ADD_PHONE = 'ADD_PHONE'
+export const ADD_EMAIL = 'ADD_EMAIL'
+export const ADD_BLOG = 'ADD_BLOG'
+export const REMOVE_PHONE = 'REMOVE_PHONE'
+export const REMOVE_EMAIL = 'REMOVE_EMAIL'
+export const REMOVE_BLOG = 'REMOVE_BLOG'
